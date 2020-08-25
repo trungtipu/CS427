@@ -9,8 +9,8 @@ Name: Trần Nam Trung
 The game is about an adventurous fox in a world called Sunny Land. The fox must overcome obstacles and collect as many cherries as possible and return to his home.
 
 # Unity version:
-Unity 2019.1.2f1
-Built on 2 platforms: Windows x86_64 machine portable executable & WebGL.
+Unity 2019.4.3f1
+Built on 1 platform : Windows x86_64 machine portable executable.
 
 # Tutorial:
 * Alvin Roe: https://www.youtube.com/playlist?list=PLpj8TZGNIBNy51EtRuyix-NYGmcfkNAuH

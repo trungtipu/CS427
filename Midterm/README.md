@@ -11,7 +11,7 @@ You can play game [here][0]
 
 # Unity version:
 Unity 2019.4.3f1
-Built on 1 platform : Windows x86_64 machine portable executable.
+Built on 2 platforms : Windows x86_64 machine portable executable and WebGL.
 
 # Tutorial:
 * Alvin Roe: https://www.youtube.com/playlist?list=PLpj8TZGNIBNy51EtRuyix-NYGmcfkNAuH

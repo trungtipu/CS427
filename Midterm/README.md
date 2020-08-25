@@ -24,4 +24,4 @@ Built on 1 platform : Windows x86_64 machine portable executable.
 - Footstep character sound:   https://assetstore.unity.com/packages/audio/sound-fx/footstep-snow-and-grass-90678
 - Destroy enemy sound:        https://assetstore.unity.com/packages/audio/sound-fx/retro-noisy-explosion-sound-pack-lite-69305
 
-[0]: https://minhnguyen98.github.io/SunnyLand/index.html 
+[0]: https://trungtipu.github.io/demo/index.html 

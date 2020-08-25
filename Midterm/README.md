@@ -7,6 +7,7 @@ Name: Trần Nam Trung
 
 # Introduction:
 The game is about an adventurous fox in a world called Sunny Land. The fox must overcome obstacles and collect as many cherries as possible and return to his home.
+You can play game [here][0] 
 
 # Unity version:
 Unity 2019.4.3f1
@@ -22,3 +23,5 @@ Built on 1 platform : Windows x86_64 machine portable executable.
 - Another Sound:              https://assetstore.unity.com/packages/audio/sound-fx/sound-fx-retro-pack-121743
 - Footstep character sound:   https://assetstore.unity.com/packages/audio/sound-fx/footstep-snow-and-grass-90678
 - Destroy enemy sound:        https://assetstore.unity.com/packages/audio/sound-fx/retro-noisy-explosion-sound-pack-lite-69305
+
+[0]: https://minhnguyen98.github.io/SunnyLand/index.html 
